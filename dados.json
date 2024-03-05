@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"Bruno Empke",
+        "age":22,
+        "administrator":true
+    },
+    {
+        "id":2,
+        "name":"Claúdia Empke",
+        "age":52,
+        "administrator":false
+    },
+    {
+        "id":3,
+        "name":"Jessica Empke",
+        "age":32,
+        "administrator":false
+    },
+    {
+        "id":4,
+        "name":"Paulo Sergio Empke",
+        "age":59,
+        "administrator":false
+    },
+    {
+        "id":5,
+        "name":"Décio Empke",
+        "age":70,
+        "administrator":false
+    },
+    {
+        "id":6,
+        "name":"Sandro Idalgo",
+        "age":50,
+        "administrator":false
+    }
+]
